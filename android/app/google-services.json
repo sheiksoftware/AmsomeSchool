@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291035267887",
+    "firebase_url": "https://amsome-school.firebaseio.com",
+    "project_id": "amsome-school",
+    "storage_bucket": "amsome-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291035267887:android:2d855aea0363617b4e97da",
+        "android_client_info": {
+          "package_name": "com.amsometech.amsome_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291035267887-ml7p1eekehodq9ri6ucato2bnll869fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amsometech.amsome_school",
+            "certificate_hash": "7f561775fde28aab510d80af753446653bab0574"
+          }
+        },
+        {
+          "client_id": "291035267887-arval5dspungdo31b5qlc1f754opkkq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXlML8BYzyuO8yYmH4EhHZRMTIBiaa7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291035267887-arval5dspungdo31b5qlc1f754opkkq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
